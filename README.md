@@ -29,5 +29,3 @@ This project is part of my Data Scientist course and focuses on analyzing the **
 - Interactive dashboards and visualizations to highlight insights.  
 - Predictive models that estimate the likelihood of delays.  
 - Recommendations for airlines to improve service reliability.  
-
-## 📂 Repository Structure
